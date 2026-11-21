@@ -1,4 +1,4 @@
-# 📖 DBMS Chapter-wise Notes (GTU)
+# Chapter-wise notes prepared by me
 
 Chapter-wise notes covering the fundamentals and advanced concepts of Database Management Systems.
 
