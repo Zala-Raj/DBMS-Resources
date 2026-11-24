@@ -50,3 +50,18 @@ This is an independent student learning project and is not officially affiliated
 If you find this repository useful, consider giving it a star ⭐.
 
 Happy Learning!
+
+<br>
+
+---
+
+<!-- Don't forget to update the repository name in the link below after .../Zala-Raj/_REPO_NAME_.svg -->
+<p align="center">
+  <img src="https://hits.sh/github.com/Zala-Raj/DBMS-Resources.svg?style=flat-square&label=Repository%20Views" alt="Repository Views"/>
+</p>
+
+<p align="center">
+  ⭐ If you find this repository useful, consider giving it a star!
+  <br>
+  Thanks for visiting! Your feedback and suggestions are always welcome. 💚
+</p>
